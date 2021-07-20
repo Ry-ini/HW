@@ -1,6 +1,4 @@
-package homework;
-
-public class Translator {
+package homework;public class Translator {
     public static void main(String[] args) {
 
     }
